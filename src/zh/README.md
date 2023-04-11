@@ -14,10 +14,6 @@ actions:
     link: https://microsoftedge.microsoft.com/addons/detail/
     type: primary
 
-  - text: Web应用
-    link: /zh/website/
-    type: primary
-
   - text: 使用指南
     link: /zh/guide/
 

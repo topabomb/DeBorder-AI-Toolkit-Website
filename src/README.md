@@ -14,9 +14,6 @@ actions:
     link: https://microsoftedge.microsoft.com/addons/detail/
     type: primary
 
-  - text: Webapp
-    link: /zh/website/
-    type: primary
 
   - text: User guide
     link: /zh/guide/

@@ -36,13 +36,13 @@ features:
     details: Displaying the answers of chatgpt on commonly used search engines, and further discussing the topic through dialogue based on the questions.
   - title: Powerful prompt templates
     icon: template
-    details: 100% replicated the openai API parameters, can be finely tuned for prompt templates, and can also be shared with the community.。
+    details: 100% replicated the openai API parameters, can be finely tuned for prompt templates, and can also be shared with the community.
   - title: Embedded Azure Translation Engine
     icon: language
     details: Due to the varying language weights in the chatgpt corpus, the question or answer can be automatically translated through a translation engine.
-  - title: Optimizing for the Chinese region
+  - title: Edge computing network
     icon: network
-    details: The server cluster of CN2 GIA can be accessed quickly in any time period in Chinese-speaking regions.
+    details: Provide users with excellent api routing through edge computing network, and effectively improve the speed and stability of dialog AI.
   - title: Web3-based Privacy Protection
     icon: workingDirectory
     details: Using a blockchain-based Account model, there is no need to register or log in. Points management is done through inline blockchain nodes.

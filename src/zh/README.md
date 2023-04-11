@@ -40,9 +40,9 @@ features:
   - title: 内嵌Azure翻译引擎
     icon: language
     details: 因为chatgpt的语料库的各语言权重不同，可通过翻译引擎自动翻译提问内容或回答。
-  - title: 为中文地区优化
+  - title: 边缘计算网络
     icon: network
-    details: CN2 GIA的服务器集群，在中文地区任意时段亦可高速访问。
+    details: 通过边缘计算网络向用户提供优良的api路由，有效提升对话ai的速度和稳定性。
   - title: 基于Web3的隐私保护
     icon: workingDirectory
     details: 基于区块链的Account模型，无需注册登录，通过内联的区块链节点进行积分的管理。

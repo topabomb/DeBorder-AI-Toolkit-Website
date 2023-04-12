@@ -60,10 +60,10 @@ footer: Copyright © 2022-present weero team.
 #
 
 ### 💡Search Engine Integrated Demo
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4" poster="/poster.svg"/>
+<VideoPlayer src="/media/search_engine_integration.mp4"  type="video/mp4" />
 
 ### 💡Context Menu Demo
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4"/>
+<VideoPlayer src="/media/context_menu_demo.mp4"  type="video/mp4"/>
 
 ### 💡Quick button demonstration
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4"/>
+<VideoPlayer src="/media/quick_button_demonstration.mp4"  type="video/mp4"/>

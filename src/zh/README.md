@@ -59,10 +59,10 @@ footer: Copyright © 2022-present weero team.
 #
 
 ### 💡搜索引擎集成演示
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4" poster="/poster.svg"/>
+<VideoPlayer src="/media/search_engine_integration.mp4" type="video/mp4" />
 
 ### 💡划词菜单演示
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4"/>
+<VideoPlayer src="/media/context_menu_demo.mp4"  type="video/mp4"/>
 
 ### 💡快捷按钮演示
-<VideoPlayer src="/media/demo1.mp4"  type="video/mp4"/>
+<VideoPlayer src="/media/quick_button_demonstration.mp4"  type="video/mp4"/>
